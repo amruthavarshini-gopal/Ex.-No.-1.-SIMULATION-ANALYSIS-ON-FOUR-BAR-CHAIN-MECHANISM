@@ -53,7 +53,8 @@
 
 
 ## Output:
-![empd](https://github.com/amruthavarshini-gopal/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742940/102dd9f8-a6ff-48c2-8f33-2d152f877c86)
+![WhatsApp Image 2024-04-18 at 1 23 43 PM](https://github.com/amruthavarshini-gopal/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/145742940/4580232e-fb20-4aaf-aa32-283fb7d7872c)
+
 
 
 
